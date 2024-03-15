@@ -1,0 +1,3 @@
+C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingBresenham/cmake-build-debug/CMakeFiles/LineDrawingBresenham.dir
+C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingBresenham/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingBresenham/cmake-build-debug/CMakeFiles/rebuild_cache.dir
