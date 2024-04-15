@@ -1,0 +1,3 @@
+C:/Users/mosal/CLionProjects/Graphics/Graphics/Graphics/simpleCartesianCircle/cmake-build-debug/CMakeFiles/simpleCartesianCircle.dir
+C:/Users/mosal/CLionProjects/Graphics/Graphics/Graphics/simpleCartesianCircle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mosal/CLionProjects/Graphics/Graphics/Graphics/simpleCartesianCircle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
