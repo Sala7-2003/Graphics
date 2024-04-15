@@ -1,3 +1,13 @@
 # ninja log v5
 1	1781	7322105863617523	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
 1787	1958	7322105865323743	LineDrawingBresenham.exe	efa94f1985772f30
+7	2693	7349007928008382	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
+2697	2822	7349007929235731	LineDrawingBresenham.exe	efa94f1985772f30
+3	2136	7349008342487350	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
+2137	2267	7349008343714059	LineDrawingBresenham.exe	efa94f1985772f30
+6	2074	7349008633079358	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
+2075	2200	7349008634271546	LineDrawingBresenham.exe	efa94f1985772f30
+3	1923	7349008908761692	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
+1924	2051	7349008909983764	LineDrawingBresenham.exe	efa94f1985772f30
+3	1906	7349010418744861	CMakeFiles/LineDrawingBresenham.dir/main.cpp.obj	32d8dbfd840252ec
+1907	2036	7349010419968997	LineDrawingBresenham.exe	efa94f1985772f30
