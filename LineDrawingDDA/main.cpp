@@ -111,5 +111,4 @@ void DrawLine(HDC hdc, int x1, int x2, int y1, int y2, COLORREF c) {
     }
 
 }
-
-
+// 13 / 3 / 2024

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/LineDrawingDDA.dir
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/LineDrawingDDA.dir
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> origin/main
