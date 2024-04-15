@@ -2,9 +2,14 @@
 1	2540	7321995039962982	CMakeFiles/LineDrawingDDA.dir/main.cpp.obj	f327ab1bdcabfbea
 2547	2720	7321995041701791	LineDrawingDDA.exe	da5e9d9c5c8cf0b5
 <<<<<<< HEAD
+<<<<<<< HEAD
 8	2480	7349006271042041	CMakeFiles/LineDrawingDDA.dir/main.cpp.obj	3d78038ba7e2e797
 2481	2615	7349006272327137	LineDrawingDDA.exe	da5e9d9c5c8cf0b5
 =======
 8	3721	7322109971530050	CMakeFiles/LineDrawingDDA.dir/main.cpp.obj	c934fc8a52151216
 3722	3878	7322109973021565	LineDrawingDDA.exe	da5e9d9c5c8cf0b5
 >>>>>>> origin/main
+=======
+8	3721	7322109971530050	CMakeFiles/LineDrawingDDA.dir/main.cpp.obj	c934fc8a52151216
+3722	3878	7322109973021565	LineDrawingDDA.exe	da5e9d9c5c8cf0b5
+>>>>>>> 0542c99cf2427b293f970f17cfab720c48e34539

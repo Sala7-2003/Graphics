@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Install script for directory: C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA
 =======
 # Install script for directory: C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA
 >>>>>>> origin/main
+=======
+# Install script for directory: C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA
+>>>>>>> 0542c99cf2427b293f970f17cfab720c48e34539
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,8 +54,12 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 <<<<<<< HEAD
+<<<<<<< HEAD
 file(WRITE "C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
 =======
 file(WRITE "C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
 >>>>>>> origin/main
+=======
+file(WRITE "C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> 0542c99cf2427b293f970f17cfab720c48e34539
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

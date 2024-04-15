@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/LineDrawingDDA.dir
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/mosal/CLionProjects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
@@ -7,3 +8,8 @@ C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMak
 C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 >>>>>>> origin/main
+=======
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/LineDrawingDDA.dir
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Sala7/Github Projects/Graphics/Graphics/LineDrawingDDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 0542c99cf2427b293f970f17cfab720c48e34539

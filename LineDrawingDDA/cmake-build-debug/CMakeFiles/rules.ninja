@@ -43,10 +43,14 @@ rule CUSTOM_COMMAND
 
 rule RERUN_CMAKE
 <<<<<<< HEAD
+<<<<<<< HEAD
   command = "C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\mosal\CLionProjects\Graphics\Graphics\LineDrawingDDA -BC:\Users\mosal\CLionProjects\Graphics\Graphics\LineDrawingDDA\cmake-build-debug
 =======
   command = "C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Sala7\Github Projects\Graphics\Graphics\LineDrawingDDA" -B"C:\Sala7\Github Projects\Graphics\Graphics\LineDrawingDDA\cmake-build-debug"
 >>>>>>> origin/main
+=======
+  command = "C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Sala7\Github Projects\Graphics\Graphics\LineDrawingDDA" -B"C:\Sala7\Github Projects\Graphics\Graphics\LineDrawingDDA\cmake-build-debug"
+>>>>>>> 0542c99cf2427b293f970f17cfab720c48e34539
   description = Re-running CMake...
   generator = 1
 
