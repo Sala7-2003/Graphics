@@ -1,0 +1,3 @@
+C:/Users/Mosal/graphics_git/Flood Filling/cmake-build-debug/CMakeFiles/Flood_Filling.dir
+C:/Users/Mosal/graphics_git/Flood Filling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mosal/graphics_git/Flood Filling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
